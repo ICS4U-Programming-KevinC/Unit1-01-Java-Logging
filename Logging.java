@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Its Hello World, but with style.
+ * How many logs go in the truck?.
  *
  * @author Kevin Csiffary
  * @version 1.0
